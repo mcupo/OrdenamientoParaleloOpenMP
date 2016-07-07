@@ -1,4 +1,4 @@
-# Ordenamiento Paralelo OpenMP para C/C++
+# Ordenamiento Paralelo con OpenMP para C/C++
 Algoritmos de ordenamiento secuencial vs paralelo con OpenMP
 
 El proyecto incluye los siguientes algoritmos de ordenamiento:
